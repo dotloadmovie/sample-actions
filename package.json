@@ -1,6 +1,6 @@
 {
   "name": "sample-actions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "trying out some GH actions and need a testbed",
   "main": "index.js",
   "scripts": {
