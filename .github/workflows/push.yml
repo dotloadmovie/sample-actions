@@ -21,7 +21,7 @@ jobs:
         uses: "actions/setup-node@v1"
         with:
           node-version: 12
-     - name: Update version in package.json
+      - name: Update version in package.json
         uses: maks-stupak/gh-action-bump-version@v7.1.5
         with:
           tag-prefix: ""
